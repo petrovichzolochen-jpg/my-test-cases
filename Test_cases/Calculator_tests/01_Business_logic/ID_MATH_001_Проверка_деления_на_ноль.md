@@ -5,4 +5,4 @@
 2. В теле запроса передать JSON: {"statement": "10/0"}
 ### Ожидаемый результат:  
 HTTP Status: 422 Unprocessable Entity  
-Тело ответа: {"answer": null, "error": "Деление на ноль невозможно"}
+Тело ответа: {"answer": null, "error": "Деление на ноль невозможно"}  
